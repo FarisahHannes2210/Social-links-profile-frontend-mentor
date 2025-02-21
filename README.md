@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/FarisahHannes2210/Social-links-profile-frontend-mentor)
+- Live Site URL: [live site URL](https://FarisahHannes2210.github.io/Social-links-profile-frontend-mentor)
 
 
 ## Author
